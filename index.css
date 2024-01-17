@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('hatter.jpg');
+}
+
+.container{
+    background-color: white;
+}
+
+.L{
+    color: blue;
+}
+
+i{
+    margin-left: 1rem;
+}
